@@ -10,8 +10,8 @@ Developed as a diploma project at Middle East College, Oman, the lab simulates a
 
 ✨ Key Features
 
-Enterprise Network Simulation
-Hierarchical three-layer architecture (Core, Distribution, Access)
+-- Enterprise Network Simulation
+- Hierarchical three-layer architecture (Core, Distribution, Access)
 
 Network Segmentation:
 - VLANs for departments such as IT, HR, Engineering, Staff, Guests, and Servers
