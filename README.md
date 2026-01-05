@@ -1,11 +1,13 @@
 🔐 Enhancing National University Network Security
 Attack Simulation & Cybersecurity Awareness
 
+
 📋 About the Project
 
 This project focuses on enhancing network security and cybersecurity awareness at National University of Science and Technology (NU), Oman through the design of a Cybersecurity Awareness Training Lab using Cisco Packet Tracer.
 
 Developed as a diploma project at Middle East College, Oman, the lab simulates a real-world enterprise network and allows users to safely experience cyberattacks, security misconfigurations, and defense mechanisms. The main objective is to bridge the gap between theoretical cybersecurity knowledge and practical, hands-on skills.
+
 
 ✨ Key Features
 
@@ -46,6 +48,8 @@ Educational videos accessed via QR codes
 
 Simulated phishing and social engineering scenarios
 
+
+
 🛠️ Tools & Technologies
 
 Cisco Packet Tracer – Network simulation
@@ -57,6 +61,8 @@ Kali Linux – Ethical attack simulations
 Microsoft Power BI – Awareness dashboard
 
 Microsoft Visio – Network diagrams
+
+
 
 👥 Contributors
 
@@ -75,10 +81,14 @@ Yamen Hamed Al Dhanki
 Supervisor: Ms. Ibtisam Al Qari
 Institution: Middle East College, Knowledge Oasis Muscat, Oman
 
+
+
 📄 License
 
 This project is an academic work shared strictly for educational purposes.
 All rights reserved by the authors and Middle East College.
+
+
 
 🙏 Acknowledgments
 
