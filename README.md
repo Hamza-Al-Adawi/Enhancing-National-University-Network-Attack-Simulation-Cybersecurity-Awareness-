@@ -14,53 +14,53 @@ Developed as a diploma project at Middle East College, Oman, the lab simulates a
 Enterprise Network Simulation
 Hierarchical three-layer architecture (Core, Distribution, Access)
 
-Network Segmentation
-VLANs for departments such as IT, HR, Engineering, Staff, Guests, and Servers
+Network Segmentation:
+- VLANs for departments such as IT, HR, Engineering, Staff, Guests, and Servers
 
-Security Implementations
+Security Implementations:
 
-Access Control Lists (ACLs)
+- Access Control Lists (ACLs)
 
-Secure remote access using SSH
+- Secure remote access using SSH
 
-Port security with sticky MAC
+- Port security with sticky MAC
 
-DHCP snooping & IP source guard
+- DHCP snooping & IP source guard
 
-HSRP for high availability
+- HSRP for high availability
 
-Core Network Services
+Core Network Services: 
 DHCP, DNS, Web (HTTPS), and Email servers
 
-Attack Simulations
+Attack Simulations:
 
-Packet sniffing using Wireshark
+- Packet sniffing using Wireshark
 
-Phishing and web cloning via Kali Linux SET
+- Phishing and web cloning via Kali Linux SET
 
-Reverse shell attack demonstrations
+- Reverse shell attack demonstrations
 
-Awareness & Training
+Awareness & Training:
 
-Interactive Power BI cybersecurity dashboard
+- Interactive Power BI cybersecurity dashboard
 
-Educational videos accessed via QR codes
+- Educational videos accessed via QR codes
 
-Simulated phishing and social engineering scenarios
+- Simulated phishing and social engineering scenarios
 
 
 
 🛠️ Tools & Technologies
 
-Cisco Packet Tracer – Network simulation
+- Cisco Packet Tracer – Network simulation
 
-Wireshark – Traffic analysis
+- Wireshark – Traffic analysis
 
-Kali Linux – Ethical attack simulations
+- Kali Linux – Ethical attack simulations
 
-Microsoft Power BI – Awareness dashboard
+- Microsoft Power BI – Awareness dashboard
 
-Microsoft Visio – Network diagrams
+- Microsoft Visio – Network diagrams
 
 
 
@@ -68,15 +68,15 @@ Microsoft Visio – Network diagrams
 
 This project was developed by:
 
-Laila Tamer Mekhimar
+- Laila Tamer Mekhimar
 
-Hamza Suleiman Aladawi
+- Hamza Suleiman Aladawi
 
-Sheikha Rashid Al Hinai
+- Sheikha Rashid Al Hinai
 
-Taha Mohammed Al Balushi
+- Taha Mohammed Al Balushi
 
-Yamen Hamed Al Dhanki
+- Yamen Hamed Al Dhanki
 
 Supervisor: Ms. Ibtisam Al Qari
 Institution: Middle East College, Knowledge Oasis Muscat, Oman
