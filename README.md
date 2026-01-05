@@ -1,6 +1,5 @@
-🔐 Enhancing National University Network Security
-Attack Simulation & Cybersecurity Awareness
-
+🔐 Diploma Project: Enhancing National University Network Security 
+(Attack Simulation & Cybersecurity Awareness)
 
 📋 About the Project
 
