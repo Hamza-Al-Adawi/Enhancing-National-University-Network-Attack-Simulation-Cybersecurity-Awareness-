@@ -30,7 +30,7 @@ Security Implementations:
 - HSRP for high availability
 
 Core Network Services: 
-DHCP, DNS, Web (HTTPS), and Email servers
+- DHCP, DNS, Web (HTTPS), and Email servers
 
 Attack Simulations:
 
@@ -49,7 +49,6 @@ Awareness & Training:
 - Simulated phishing and social engineering scenarios
 
 
-
 🛠️ Tools & Technologies
 
 - Cisco Packet Tracer – Network simulation
@@ -61,7 +60,6 @@ Awareness & Training:
 - Microsoft Power BI – Awareness dashboard
 
 - Microsoft Visio – Network diagrams
-
 
 
 👥 Contributors
@@ -82,12 +80,10 @@ Supervisor: Ms. Ibtisam Al Qari
 Institution: Middle East College, Knowledge Oasis Muscat, Oman
 
 
-
 📄 License
 
 This project is an academic work shared strictly for educational purposes.
 All rights reserved by the authors and Middle East College.
-
 
 
 🙏 Acknowledgments
