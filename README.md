@@ -67,7 +67,7 @@ This project was developed by:
 
 - Laila Tamer Mekhimar
 
-- Hamza Suleiman Aladawi
+- Hamza Suleiman Al Adawi
 
 - Sheikha Rashid Al Hinai
 
